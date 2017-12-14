@@ -1,3 +1,8 @@
+HMMSim is a trace-driven simulator for hardware-software co-design of hybrid main memory.
+
+HMMSim is open source software released under the MIT license.
+
+
 Prerequisites:
 
 Linux
